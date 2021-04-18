@@ -1,0 +1,3 @@
+import re
+text = "My 2 favorite numbers are 20 and 40"
+y = re.findall
